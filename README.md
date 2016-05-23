@@ -3,11 +3,17 @@
 Add Images and Banners to your sidebars easily! Add title, link, alternative text, even set the link targets with one widget. No coding required!
 
 >Contributors: mattsay
+
 >Donate link: http://shailan.com/donate
+
 >Tags: image, banner, simple, widget, category, gif, jpg, png, alt, title, img, easy
+
 >Requires at least: 2.6
+
 >Tested up to: 4.3.1
+
 >Stable tag: 1.4.3
+
 >License: GPLv2 or later
 
 ## Description
