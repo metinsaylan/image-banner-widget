@@ -1,6 +1,6 @@
 ﻿=== Image/Banner Widget ===
 Contributors: mattsay
-Donate link: http://shailan.com/donate
+Donate link: http://metinsaylan.com/donate
 Tags: image, banner, simple, widget, category, gif, jpg, png, alt, title, img, easy
 Requires at least: 2.6
 Tested up to: 4.3.1

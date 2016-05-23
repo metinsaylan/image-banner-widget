@@ -4,7 +4,7 @@ Add Images and Banners to your sidebars easily! Add title, link, alternative tex
 
 >Contributors: mattsay
 
->Donate link: http://shailan.com/donate
+>Donate link: http://metinsaylan.com/donate
 
 >Tags: image, banner, simple, widget, category, gif, jpg, png, alt, title, img, easy
 
